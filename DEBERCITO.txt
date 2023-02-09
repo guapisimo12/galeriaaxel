@@ -1,0 +1,17 @@
+<HTML>
+<HEAD>
+<Title>www.galeriaaxel.com</Title>
+</HEAD>
+<BODY>
+<body background="tigra.jpg">
+<H1><CENTER> Mi galeria [0°]</CENTER></H1>
+<HR>
+Yo Axel Guevara, decidi tomarvel taller de fotografia por que siempre 
+quise tomar fotos de eventos muy importantes, ya que esta labor me 
+parecia muy noble , a continuacion muestro mis obras:
+</HR>
+<img src="tigreso.jpg/>
+<img src="agua.jpg/>
+<img src="montañas.jpg/>
+</BODY>
+</HTML>
